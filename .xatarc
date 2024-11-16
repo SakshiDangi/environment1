@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://DreamHack-s-workspace-nfrfc1.us-east-1.xata.sh/db/environment",
+  "codegen": {
+    "output": "src/lib/xata.ts"
+  }
+}
